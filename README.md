@@ -1,7 +1,5 @@
 # Zomato-Restaurant-Rating
-How to predict the future rating of a restaurant based on an ML model. A case study in Python
-Restaurant rating prediction case study in python
-Case Studies-Python, Machine Learning
+Restaurant rating prediction case study in python-Python, Machine Learning
 
 Zomato, the online food app, has reached out to you to help them to predict how good or bad a restaurant will turn out in the future. So that, they can take a decision to include the restaurant in their app or remove it.
 
